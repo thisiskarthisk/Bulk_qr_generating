@@ -61,7 +61,13 @@ python bulk_qr_generator.py
 
 
 **Example Screenshot**
-![Application Images](image1.jpg)
+<p float="left">
+  <img src="./image1.jpg" height="250" width="300" />
+  <img src="./image2.jpg" height="250" width="300" />
+  <img src="./image3.jpg" width="300" />
+  <img src="./image4.jpg" width="300" />
+  <img src="./image5.jpg" width="300" />
+</p>
 
 **License**
 

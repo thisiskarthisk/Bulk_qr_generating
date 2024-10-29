@@ -61,18 +61,7 @@ python bulk_qr_generator.py
 
 
 **Example Screenshot**
-https://github.com/thisiskarthisk/Bulk_qr_generating/blob/c50ba9daa0fc19f43bab5b39f21868efca6a6f10/image1.jpg
-
-https://github.com/thisiskarthisk/Bulk_qr_generating/blob/c50ba9daa0fc19f43bab5b39f21868efca6a6f10/image2.jpg
-
-https://github.com/thisiskarthisk/Bulk_qr_generating/blob/c50ba9daa0fc19f43bab5b39f21868efca6a6f10/image3.jpg
-
-https://github.com/thisiskarthisk/Bulk_qr_generating/blob/c50ba9daa0fc19f43bab5b39f21868efca6a6f10/image4.jpg
-
-https://github.com/thisiskarthisk/Bulk_qr_generating/blob/c50ba9daa0fc19f43bab5b39f21868efca6a6f10/image5.jpg
-
-<!-- Add a screenshot to the project for a visual representation -->
-
+![Application Images](image1.jpg)
 
 **License**
 
